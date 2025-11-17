@@ -1,5 +1,4 @@
-package util;
-
+package reto;
 import java.util.Scanner;
 
 public class Funciones {
